@@ -1,2 +1,2 @@
 # vipersoundconfigs
-My viper sound configs
+My viper sound config files.
